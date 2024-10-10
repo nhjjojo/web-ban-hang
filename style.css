@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 20px;
+}
+
+header {
+    background-color: pink;
+    color: mediumvioletred;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background: #fff;
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
